@@ -1,0 +1,9 @@
+[
+  "tests/test_harness.py::test_duplicate_id",
+  "tests/test_harness.py::test_empty",
+  "tests/test_harness.py::test_invalid_completion_date",
+  "tests/test_harness.py::test_invalid_due_date",
+  "tests/test_harness.py::test_invalid_status",
+  "tests/test_harness.py::test_pending_only",
+  "tests/test_harness.py::test_success_and_priority"
+]
